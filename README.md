@@ -6,7 +6,7 @@
 
 ---
 
-<p align="center"><h3>Connect with me:</h3></p>
+<h3 align="center">Connect with me:</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/benet-demaj-63a931238/">
@@ -14,7 +14,9 @@
   </a>
 </p>
 
-<p align="center"><h3>Portfolio:</h3></p>
+---
+
+<h3 align="center">Portfolio:</h3>
 
 <p align="center">
   <a href="https://benetdemaj.vercel.app">
@@ -24,4 +26,4 @@
 
 ---
 
-<p align="center"><h3>Projects:</h3></p>
+<h3 align="center">Projects:</h3>
