@@ -1,4 +1,4 @@
-<img width="1000" height="300" alt="Image" src="https://github.com/user-attachments/assets/32d8c699-bf41-48c5-ab46-8d58e7744555" />
+<img width="700" height="300" alt="Image" src="https://github.com/user-attachments/assets/32d8c699-bf41-48c5-ab46-8d58e7744555" />
 
 <p align="center">
   An AI Engineer dedicated to building intelligent systems that solve complex, real-world problems.
